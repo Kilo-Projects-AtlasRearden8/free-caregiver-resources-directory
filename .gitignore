@@ -1,7 +1,11 @@
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-.env
 *.log
-.DS_Store
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+.DS_Storenode_modules/
+.env
+.env.*
+.venv/
+__pycache__/
+dist/*.tmp
