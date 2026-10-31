@@ -154,7 +154,7 @@ def render_html(grouped):
   </main>
   <footer class="site">
     <p>Free Caregiver Resources Directory &mdash; by Asdale Dynamics, LLC. Official links only. No personal data is collected.</p>
-    <p><a href="https://github.com/dylanasdale" rel="noopener">dylanasdale.github.io</a></p>
+    <p>Created by Asdale Dynamics, LLC &mdash; The Massive AI Manual and dylanasdale.github.io.</p>
   </footer>
   <script src="search.js"></script>
 </body>
