@@ -1,0 +1,228 @@
+{
+  "groups": [
+    {
+      "key": "respite",
+      "title": "Respite Care",
+      "items": [
+        {
+          "title": "National Respite Resource Center",
+          "description": "The ARCH National Respite Resource Center (funded by the U.S. Administration for Community Living) is the national clearinghouse for respite care information, including a respite locator tool and a provider directory.",
+          "use": "Finding local respite providers, learning about respite funding, and accessing toolkits for families.",
+          "links": [
+            "https://archrespite.org/"
+          ]
+        },
+        {
+          "title": "National Respite Network",
+          "description": "A membership association of respite providers and advocates working to expand respite services nationwide.",
+          "use": "Connecting with state respite coalitions and learning about respite policy and training.",
+          "links": [
+            "https://www.respitecare.org/"
+          ]
+        },
+        {
+          "title": "Family Caregiver Alliance (FCA)",
+          "description": "A national nonprofit with educational resources for caregivers and a directory of caregiver support programs by state.",
+          "use": "State-by-state caregiver resource guides and educational fact sheets on respite and caregiving strategies.",
+          "links": [
+            "https://www.caregiver.org/"
+          ]
+        },
+        {
+          "title": "Caregiver Action Network (CAN)",
+          "description": "A national nonprofit providing free educational resources and a family caregiver helpline.",
+          "use": "Caregiver helpline (877-CAREGIVER), educational guides, and finding local support.",
+          "links": [
+            "https://caregiveraction.org/"
+          ]
+        },
+        {
+          "title": "U.S. Department of Veterans Affairs — Caregiver Support Program",
+          "description": "For veterans and post-9/11 veterans, the VA offers respite care through the Caregiver Support Program, including in-home respite and temporary residential respite.",
+          "use": "Eligibility information, respite care details, and applying for VA caregiver support.",
+          "links": [
+            "https://www.va.gov/family-member-benefits/caregiver-support/"
+          ]
+        },
+        {
+          "title": "Eldercare Locator",
+          "description": "A service of the U.S. Administration for Community Living that connects older adults and their families to local services, including respite care.",
+          "use": "",
+          "links": [
+            "https://eldercare.acl.gov/"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "support",
+      "title": "Support Groups",
+      "items": [
+        {
+          "title": "Family Caregiver Alliance (FCA) — Caregiver Online",
+          "description": "FCA offers online support communities and educational webinars for family caregivers.",
+          "use": "Joining online caregiver communities and accessing free caregiver education.",
+          "links": [
+            "https://www.caregiver.org/online-support"
+          ]
+        },
+        {
+          "title": "Caregiver Action Network (CAN) — Support & Helpline",
+          "description": "CAN runs a free national helpline (877-CAREGIVER) and connects caregivers to support resources.",
+          "use": "Calling or chatting with trained staff for support and guidance.",
+          "links": [
+            "https://caregiveraction.org/"
+          ]
+        },
+        {
+          "title": "Alzheimer's Association",
+          "description": "A national nonprofit offering 24/7 helpline, online support communities, and in-person support groups for Alzheimer's and dementia caregivers.",
+          "use": "24/7 helpline (800-272-3900), online support groups, and local chapter information.",
+          "links": [
+            "https://www.alz.org/"
+          ]
+        },
+        {
+          "title": "National Alliance for Caregiving",
+          "description": "A national coalition that researches caregiving and partners with organizations to support family caregivers.",
+          "use": "Research, reports, and connecting to partner caregiver programs.",
+          "links": [
+            "https://www.caregiving.org/"
+          ]
+        },
+        {
+          "title": "Caregiver Action Network — Caregiver Online Library",
+          "description": "A free library of caregiver guides organized by condition and situation.",
+          "use": "Downloading free guides on specific caregiving topics.",
+          "links": [
+            "https://caregiveraction.org/library"
+          ]
+        },
+        {
+          "title": "U.S. Department of Veterans Affairs — Caregiver Support Program",
+          "description": "The VA offers peer support mentoring and monthly support groups for family caregivers of veterans.",
+          "use": "",
+          "links": [
+            "https://www.va.gov/family-member-benefits/caregiver-support/"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "benefits",
+      "title": "Benefit Guides",
+      "items": [
+        {
+          "title": "Medicare.gov",
+          "description": "The official U.S. Medicare website, with guides to coverage, costs, and plans.",
+          "use": "Understanding Medicare coverage for home health care and durable medical equipment.",
+          "links": [
+            "https://www.medicare.gov/"
+          ]
+        },
+        {
+          "title": "Medicaid.gov",
+          "description": "The official U.S. Medicaid website, with state-by-state program information.",
+          "use": "Learning about Medicaid long-term care and home- and community-based services.",
+          "links": [
+            "https://www.medicaid.gov/"
+          ]
+        },
+        {
+          "title": "Social Security Administration (SSA)",
+          "description": "The official SSA site, with information on Social Security, SSI, and benefits for caregivers and dependents.",
+          "use": "Applying for or managing Social Security and SSI benefits.",
+          "links": [
+            "https://www.ssa.gov/"
+          ]
+        },
+        {
+          "title": "Eldercare Locator",
+          "description": "A service of the U.S. Administration for Community Living that connects people to local benefits and services.",
+          "use": "Finding local benefit programs and financial assistance by ZIP code.",
+          "links": [
+            "https://eldercare.acl.gov/"
+          ]
+        },
+        {
+          "title": "Benefits.gov",
+          "description": "The official U.S. government benefits portal, listing federal, state, and local benefit programs.",
+          "use": "Searching for federal benefits by life event, including caregiving-related assistance.",
+          "links": [
+            "https://www.benefits.gov/"
+          ]
+        },
+        {
+          "title": "U.S. Department of Veterans Affairs — Benefits",
+          "description": "The official VA site for veterans benefits, including disability compensation, pension, and dependent benefits.",
+          "use": "Understanding veterans benefits that may support family caregivers.",
+          "links": [
+            "https://www.va.gov/benefits/"
+          ]
+        },
+        {
+          "title": "211.org (United Way)",
+          "description": "United Way's 211 service connects people to local health and human services, including utility and rent assistance.",
+          "use": "",
+          "links": [
+            "https://www.211.org/"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "legal",
+      "title": "Legal Aid",
+      "items": [
+        {
+          "title": "Legal Services Corporation (LSC)",
+          "description": "The nonprofit corporation established by Congress to support civil legal aid for low-income Americans. LSC funds state legal aid organizations.",
+          "use": "Finding your state's legal aid organization through LSC's online directory.",
+          "links": [
+            "https://www.lsc.gov/"
+          ]
+        },
+        {
+          "title": "National Legal Aid & Defender Association (NLADA)",
+          "description": "The oldest and largest national organization dedicated to equal justice for low-income Americans.",
+          "use": "Connecting to legal aid programs and learning about civil legal aid.",
+          "links": [
+            "https://www.nlada.org/"
+          ]
+        },
+        {
+          "title": "AARP Legal Services",
+          "description": "AARP offers legal services for members, including help with powers of attorney, advance directives, and caregiving-related documents.",
+          "use": "Understanding legal document options and connecting to legal help.",
+          "links": [
+            "https://www.aarp.org/legal/"
+          ]
+        },
+        {
+          "title": "National Academy of Elder Law Attorneys (NAELA)",
+          "description": "A national professional association of attorneys specializing in elder law.",
+          "use": "Finding an elder law attorney through NAELA's attorney directory.",
+          "links": [
+            "https://www.naela.org/"
+          ]
+        },
+        {
+          "title": "U.S. Department of Veterans Affairs — Veterans Benefits Administration",
+          "description": "The official VA site for veterans benefits and appeals.",
+          "use": "Understanding veterans benefits and filing appeals.",
+          "links": [
+            "https://www.va.gov/benefits/"
+          ]
+        },
+        {
+          "title": "Medicare.gov — Appeals",
+          "description": "The official Medicare site with information on appealing coverage and payment decisions.",
+          "use": "",
+          "links": [
+            "https://www.medicare.gov/claims-and-appeals/"
+          ]
+        }
+      ]
+    }
+  ]
+}
